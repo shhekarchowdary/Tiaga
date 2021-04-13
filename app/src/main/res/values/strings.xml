@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Taiga Mobiles</string>
+    <string name="mobileImages">Mobile Image</string>
+    <string name="option1">3GB:32Gb</string>
+    <string name="option2">4GB:64GB</string>
+    <string name="option3">6GB:128GB</string>
+    <string name="screen_guard">Screen Guard</string>
+    <string name="back_cover">Back Cover</string>
+    <string name="ear_phones">Ear Phones</string>
+    <string name="place_order">Place Order</string>
+</resources>
